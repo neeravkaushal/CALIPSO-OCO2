@@ -1,0 +1,5 @@
+1. Include quality.
+2. Sort result files in ascending order of sounding ids.
+2. Use time as float (new program).
+3. Use appropriate datatypes in writing netcdf4.
+4. Remove condition of SIF > 0.
